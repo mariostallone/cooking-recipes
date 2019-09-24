@@ -1,8 +1,8 @@
-##Channa Masala
+## Channa Masala
 
 Serves 2
 
-###Ingredients
+### Ingredients
 
 * 2 Onions (large)
 * 2 - 3 Tomatos
@@ -13,7 +13,7 @@ Serves 2
 * Garam Masala
 * Coriander
 
-###Preparation
+### Preparation
 
 - Cut the Onion into thin slices
 - Put it in a pan with some oil and sautee it
