@@ -30,3 +30,10 @@ Serves 2
 - You can add some water in between to ensure you have some gravy
 - Next add the boiled chickpeas to the mix, and let it cook on medium for about 15 mins
 - Once you're done, season the mix with some finely chopped coriander leaves
+
+### Serving Suggestion
+
+It's best had it with Chapathi, Roti or Poori
+You can also have it with rice
+
+![Channa Masala](https://github.com/mariostallone/cooking-recipes/blob/master/images/channa-masala.jpg)
